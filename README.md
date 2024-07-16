@@ -6,6 +6,6 @@ Hi, this repository is place where I store code I've learned and made mostly usi
 ## react-admin-dashboard-material-ui:
 
 Front End Admin Dashboard web created using following library:
-- react (typescript), 
+- react (javascript)
 - material ui
 - d3.js
