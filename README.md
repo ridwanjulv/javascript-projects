@@ -1,3 +1,3 @@
 # Holla
 
-Repo ini berisi kumpulan project dan catatan belajar gw terkait pembuatan web dan backend menggunakan React dan NodeJS.
+Repo ini berisi kumpulan catatan belajar dan weekend project gw dengan menggunakan bahasa Javascript.
